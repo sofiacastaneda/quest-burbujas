@@ -1,0 +1,120 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-87bf729356e4b4e469913c16560658c9
+# Starting compiling UnityEngine.UI.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d13c2943fc6804517845c3cf9b7c970f
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-789709453c51b4165ba7164d733022f8
+# Starting compiling UnityEditor.UI.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fa8fc7b7be4fd40409024be10dcac6ac
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c0e0448fd8fba4d6cad0d5b4b3184945
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7360d44d97d784d298f6745583f86299
+# Starting compiling Oculus.Spatializer.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c5c552e7ca4354d32b7fb6d875e4c139
+# Starting compiling Meta.VoiceSDK.Mic.Common.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-54d1a0d1d231341e8bdc776a13aea128
+# Starting compiling Unity.Timeline.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a1cf883ff2ebb48fd880f22356fd1251
+# Starting compiling Oculus.AudioManager.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-712f5c697025c4c24ab6742366a99cb5
+# Starting compiling Unity.TextMeshPro.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9b9a2afca73524386b0ed004fb6957fb
+# Starting compiling AssistantCoreSDKRuntime.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9dcfb61950aab49ffa85ef4c2cca780b
+# Starting compiling Oculus.AudioManager.Utils.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a59b49fdd56fa4fbbb29cab4266d8898
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a3f3a69b460c64a6bb300738349bddfc
+# Starting compiling AssistantCoreSDKEditor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a527f023c226f444f8ce94a5fdf967fd
+# Starting compiling Unity.Rider.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4c44bbb4aa71348aeaac47e4028f637a
+# Starting compiling Oculus.VR.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-855bb76c24bd24739b6c479998217148
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7491cbe408fb44a559b4e4ec6f4cb565
+# Starting compiling Oculus.AudioManager.Audio.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-96e9c9062e52440ea8c95f147f0417f6
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-89412201ef1a947089fbff93ad10475e
+# Starting compiling Oculus.Spatializer.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0030b2a9ec4c54b2ba6557892b8f1613
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d8825d0a49e9240f3bf48961712188ae
+# Starting compiling Oculus.Interaction.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f156e4f59b61045caa5fc1262d8f9267
+# Starting compiling Oculus.Platform.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1073e2c6bb58f408f8256083f4141150
+# Starting compiling Oculus.LipSync.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a3b5f9269a88c4607853459bddeac6b9
+# Starting compiling Oculus.LipSync.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-378aaa332014a4e20919f32b585087d8
+# Starting compiling Meta.WitAi.Lib.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-91bd103888744486fa8b2f916978e41c
+# Starting compiling UnityEngine.SpatialTracking.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0e195b92c20c440538d8ebdf7ea78785
+# Starting compiling Meta.VoiceSDK.Mic.Other.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0721fbe17a95843a38c9e3c31529f30f
+# Starting compiling Meta.WitAi.Conduit.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-303333545eba8466f99c1396b1cee682
+# Starting compiling Meta.WitAI.Lib.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e43097e211cad4018840223a16e7d3fe
+# Starting compiling Oculus.Platform.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4aa73acf49e0041a0bbb2954d8840c51
+# Starting compiling Meta.WitAi.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-92e2b2d881363413e8b404114af54dea
+# Starting compiling Oculus.Interaction.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9195650d34a5147a0a8c56159703f913
+# Starting compiling Oculus.Interaction.OVR.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-51bc11dc91e50405fbcc522c99f00e18
+# Starting compiling Meta.WitAi.Conduit.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9eeadf78797f34562bbe9b4b507da58e
+# Starting compiling Facebook.Wit.Dictation.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ba667988d542243bfb63b104e3dfdf23
+# Starting compiling Oculus.Interaction.InterfaceSupport.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6ba4f4334331e47a7b25d3c5ec3a8de8
+# Starting compiling Meta.WitAi.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-973ea22d447e4406d8bca7b9a5ec62d2
+# Starting compiling Oculus.Interaction.OVR.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-950a49750204a458f908089417b13532
+# Starting compiling VoiceSDK.Runtime.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5056b77935f4248dd8cd65668d8e553a
+# Starting compiling Meta.WitAi.TTS.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6e2a4f6a1b3b34069952a74be4a66234
+# Starting compiling Facebook.Wit.Dictation.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4d26efe04f10f4b6a98ab431dc157ee0
+# Starting compiling Oculus.Interaction.OVR.Samples.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6595a4487029749248595bc8c8f5adea
+# Starting compiling Oculus.Voice.Demo.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-541689bb6dcee49f4ab973f3516fe749
+# Starting compiling VoiceSDK.Dictation.Runtime.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-896dbe0a6968a428ea0c69f894be4665
+# Starting compiling Meta.WitAi.TTS.Samples.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c7d655836f6f7421f813598b9f891a4c
+# Starting compiling Oculus.Interaction.Samples.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a883cfba936684f46ab0b1a24d64c722
+# Starting compiling Meta.WitAi.TTS.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cd456aa1bb25949b2b78ef0355e76d89
+# Starting compiling VoiceSDK.Dictation.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c0a04f3094dd94ba6ab2eae7496a0a85
+# Starting compiling Unity.XR.Management.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e39c5f1c0ffdf4e79ad3374d8d664ec3
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9d4a3a6895fa24dd6bf44d37f44bdb6d
+# Starting compiling VoiceSDK.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5bd899cd2922a44378b73ad31ef0a4a0
+# Starting compiling UnityEditor.SpatialTracking.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8be3b9f16e95c482bbaa6c8aac61d52e
+# Starting compiling Unity.XR.Management.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ca7d064d3ecd848e39ee623fd0b6f4b4
+# Starting compiling UnityEditor.XR.LegacyInputHelpers.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-86e2d2148c9624f53970f2a374839b53
+# Starting compiling Oculus.VR.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c0ad338f8940149efa5be6f323531c4a
+# Starting compiling Oculus.VR.Scripts.Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6480f96a387f34f0fbfb0d0cf1544577
+# Starting compiling Assembly-CSharp.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3ebc60f7f20454a8a80a38b06720ae11
+# Starting compiling Assembly-CSharp-Editor.dll
+/Users/sofia/Documents/2020.3.47f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0ff45538a4b2442b49dd864a123e297a
