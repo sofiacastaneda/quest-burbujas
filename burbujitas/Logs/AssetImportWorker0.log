@@ -538,3 +538,110 @@ Received Import Request.
   path: Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/ball_billiard_10_dif.jpg
   artifactKey: Guid(2314f2250e16c224fbaa392942901582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/ball_billiard_10_dif.jpg using Guid(2314f2250e16c224fbaa392942901582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15635ad14f10c68bdd6e39ada3204beb') in 0.027702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1064.631299 seconds.
+  path: Assets/Bubble Particles/Materials
+  artifactKey: Guid(d5e632953fffced4aa85a136a08d4180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Materials using Guid(d5e632953fffced4aa85a136a08d4180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac3560e2e3c66b12f0e0caae6a89b2a') in 0.005622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Bubble Particles/Materials/Bubble Splash MAT.mat
+  artifactKey: Guid(d708ae3b3a3af1e4b814720949ca4db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Materials/Bubble Splash MAT.mat using Guid(d708ae3b3a3af1e4b814720949ca4db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db041851fae694e7d03274f663866d68') in 0.202245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Bubble Particles/Materials/Bubble MAT.mat
+  artifactKey: Guid(26a9eae367104144286ee6c8c89213b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Materials/Bubble MAT.mat using Guid(26a9eae367104144286ee6c8c89213b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '900521706d194f64f5e08c92db22d668') in 0.052587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Bubble Particles/Materials/Demo MAT.mat
+  artifactKey: Guid(76679e3fb4b5b744983975c0939bcde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Materials/Demo MAT.mat using Guid(76679e3fb4b5b744983975c0939bcde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7452b651ba53b95d6ad85567e52f78c3') in 0.027480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2266.152076 seconds.
+  path: Assets/Resources/OculusPlatformSettings.asset
+  artifactKey: Guid(e24afc4f07a5040d39d2ab23cb127c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/OculusPlatformSettings.asset using Guid(e24afc4f07a5040d39d2ab23cb127c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5010b3785702dbdeaab390fac504d1') in 0.111394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 758.495385 seconds.
+  path: Assets/Bubble Particles/Materials/Textures/bubble.tif
+  artifactKey: Guid(4a7a2c723602ab14ca14104d1689d525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Materials/Textures/bubble.tif using Guid(4a7a2c723602ab14ca14104d1689d525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45813d78c7d7a13b13b156fc7d8846d8') in 4.793723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.551592 seconds.
+  path: Assets/Bubble Particles/Materials/Textures/bubbleSplashTex.tif
+  artifactKey: Guid(0a6da03379e7db446a6f02281947051a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Materials/Textures/bubbleSplashTex.tif using Guid(0a6da03379e7db446a6f02281947051a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b017f4a1faf13c74df5484d0c67923') in 0.059043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.498542 seconds.
+  path: Assets/Bubble Particles/Materials/Textures
+  artifactKey: Guid(fe950bd861857ae40b070f2f244cb5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Materials/Textures using Guid(fe950bd861857ae40b070f2f244cb5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fefbc1bcdfa772227450a3b43d65693a') in 0.006999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.144835 seconds.
+  path: Assets/Bubble Particles/Prefabs/Bubble Particles 2.prefab
+  artifactKey: Guid(f947e4201b4fa4c48bfc3a41abe7c13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Prefabs/Bubble Particles 2.prefab using Guid(f947e4201b4fa4c48bfc3a41abe7c13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ccd3f1b183b582c7ac1dab7dc2470d') in 0.148063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016575 seconds.
+  path: Assets/Bubble Particles/Prefabs/Bubble Particles.prefab
+  artifactKey: Guid(b9037713bd8bb8347ae0a9ee0be244ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Prefabs/Bubble Particles.prefab using Guid(b9037713bd8bb8347ae0a9ee0be244ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e25340e2bccd8209e8217836f9fff1b') in 0.077712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.743373 seconds.
+  path: Assets/Bubble Particles/Prefabs/Bubble Particles 2.prefab
+  artifactKey: Guid(f947e4201b4fa4c48bfc3a41abe7c13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Prefabs/Bubble Particles 2.prefab using Guid(f947e4201b4fa4c48bfc3a41abe7c13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57abc89e44d7cd5e88d373096e21008') in 0.057335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.494825 seconds.
+  path: Assets/Bubble Particles/Prefabs/Bubble Particles.prefab
+  artifactKey: Guid(b9037713bd8bb8347ae0a9ee0be244ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Prefabs/Bubble Particles.prefab using Guid(b9037713bd8bb8347ae0a9ee0be244ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de66e2181a69d2c49071ce6cd982da5') in 0.070750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.702921 seconds.
+  path: Assets/Bubble Particles/Scenes/Bubble Demo.unity
+  artifactKey: Guid(41642fcfa6cd7a24a91a8b7e451ed7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Scenes/Bubble Demo.unity using Guid(41642fcfa6cd7a24a91a8b7e451ed7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d448a54ea08c739f0481caeecbea79') in 0.009572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.112206 seconds.
+  path: Assets/Bubble Particles/Scenes/Bubble DemoSettings.lighting
+  artifactKey: Guid(5ad0fcccf9ae444879149f3b3c04f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble Particles/Scenes/Bubble DemoSettings.lighting using Guid(5ad0fcccf9ae444879149f3b3c04f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'b3961f2c06d889a9fa250f0337949fe8') in 0.249137 seconds 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 27.18 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.01 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.1 MB.
+System memory in use after: 150.3 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3424.
+Total: 109.885701 ms (FindLiveObjects: 0.531283 ms CreateObjectMapping: 0.241351 ms MarkObjects: 108.610188 ms  DeleteObjects: 0.501436 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
